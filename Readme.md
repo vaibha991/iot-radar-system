@@ -43,4 +43,4 @@ Full demo on LinkedIn — [link here]
 
 ## Author
 
-Your Name — [GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-username)
+Your Name — [GitHub](https://github.com/vaibha991) · [LinkedIn](https://www.linkedin.com/in/vaibhav-bhatt-b39b08340/)
